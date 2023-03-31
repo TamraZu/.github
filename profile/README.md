@@ -15,6 +15,10 @@
 
 ### Front-end
 - TypeScript, React
+- Kakao Map Sdk
+- React-query, Axios
+- Emotion
+- Recoil
 
 ### Back-end
 - JDK 17, Spring Boot 2.7.10, Gradle 7.5.1
