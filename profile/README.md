@@ -1,4 +1,4 @@
-# 🍊 Tamrazu
+# 🍊 TamraJu
 
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/55437339/229000195-927525a2-d3cd-4273-beaa-93adfe43a9e1.png">
 
